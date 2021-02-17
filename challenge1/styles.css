@@ -1,17 +1,33 @@
 body {
+    align-items: center;
     background-color: hsl(185, 75%, 39%);
     background-image: 
         url(images/bg-pattern-top.svg), 
         url(images/bg-pattern-bottom.svg);
     background-position: -50% 200%, 150% -100%;
     background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
     font-family: 'Kumbh Sans', sans-serif;
-    padding:15px;
-    text-align: center;
 }
 
-h4 {
+a {
+    text-decoration-line: none;
+    line-height: 1.5;
+}
+
+h1 {
+    color: hsl(229, 23%, 23%);
     display: inline;
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+h2 {
+    color:hsl(0, 0%, 59%);
+    display: inline;
+    font-weight: 400;
+    font-size: 18px;
 }
 
 hr {
@@ -21,11 +37,10 @@ hr {
 
 p {
     color:hsl(0, 0%, 59%);
-    
 }
 
 table {
-    margin: 20px auto 0 auto;
+    margin: 25px auto 0 auto;
 }
 
 td {
@@ -33,18 +48,13 @@ td {
     font-size: 9px;
     letter-spacing: 2px;
     padding: 5px 20px 0;
+    text-align:center;
 }
 
 th {
     color: hsl(229, 23%, 23%);
     font-size: 18px;
     padding: 0 20px;
-}
-
-.age {
-    color:hsl(0, 0%, 59%);
-    font-weight: 400;
-    font-size: 18px;
 }
 
 .attribution { 
@@ -76,20 +86,23 @@ th {
     width: 350px;
 }
 
-.name {
-    color: hsl(229, 23%, 23%);
-    font-size: 18px;
-    margin-right: 10px;
-}
-
 .profile {
-    margin: 20px auto;
+    margin: 25px auto;
+    text-align: center;
 }
 
 .profile-img {
     border-radius: 100%;
-    display: inline;
+    display: flex;
     position: relative;
-    margin: 90px auto 0;
+    margin: 85px auto 0 auto;
     border: 5px solid white;
+}
+
+@media (max-width: 375px) {
+    background-image: 
+    url(images/bg-pattern-top.svg), 
+    url(images/bg-pattern-bottom.svg);
+    background-position: -30% 150%, 100% -80%;
+    background-repeat: no-repeat;   
 }
