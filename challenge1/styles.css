@@ -11,11 +11,6 @@ body {
     font-family: 'Kumbh Sans', sans-serif;
 }
 
-a {
-    text-decoration-line: none;
-    line-height: 1.5;
-}
-
 h1 {
     color: hsl(229, 23%, 23%);
     display: inline;
@@ -58,21 +53,14 @@ th {
 }
 
 .attribution { 
-    font-size: 11px; text-align: center; 
+    line-height: 1.5;
+    font-size: 11px; 
+    text-align: center; 
+    text-decoration-line: none;
 }
 
 .attribution a { 
     color: hsl(228, 45%, 44%); 
-}
-
-.bg-bottom {
-    position: absolute;
-}
-
-.bg-top {
-    position: absolute;
-    right: 300px;
-    bottom: 300px;
 }
 
 .box {
@@ -97,4 +85,12 @@ th {
     position: relative;
     margin: 85px auto 0 auto;
     border: 5px solid white;
+}
+
+@media (max-width: 375px) {
+    background-image: 
+    url(images/bg-pattern-top.svg), 
+    url(images/bg-pattern-bottom.svg);
+    background-position: -30% 150%, 100% -80%;
+    background-repeat: no-repeat;   
 }
