@@ -98,11 +98,3 @@ th {
     margin: 85px auto 0 auto;
     border: 5px solid white;
 }
-
-@media (max-width: 375px) {
-    background-image: 
-    url(images/bg-pattern-top.svg), 
-    url(images/bg-pattern-bottom.svg);
-    background-position: -30% 150%, 100% -80%;
-    background-repeat: no-repeat;   
-}
