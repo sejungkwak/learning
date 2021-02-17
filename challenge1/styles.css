@@ -56,11 +56,11 @@ th {
     line-height: 1.5;
     font-size: 11px; 
     text-align: center; 
-    text-decoration-line: none;
 }
 
 .attribution a { 
     color: hsl(228, 45%, 44%); 
+    text-decoration-line: none;
 }
 
 .box {
