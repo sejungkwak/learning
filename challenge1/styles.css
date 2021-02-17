@@ -1,0 +1,95 @@
+body {
+    background-color: hsl(185, 75%, 39%);
+    background-image: 
+        url(images/bg-pattern-top.svg), 
+        url(images/bg-pattern-bottom.svg);
+    background-position: -50% 200%, 150% -100%;
+    background-repeat: no-repeat;
+    font-family: 'Kumbh Sans', sans-serif;
+    padding:15px;
+    text-align: center;
+}
+
+h4 {
+    display: inline;
+}
+
+hr {
+    border-top: 0;
+    color:hsl(0, 0%, 59%);   
+}
+
+p {
+    color:hsl(0, 0%, 59%);
+    
+}
+
+table {
+    margin: 20px auto 0 auto;
+}
+
+td {
+    color: hsl(0, 0%, 59%);
+    font-size: 9px;
+    letter-spacing: 2px;
+    padding: 5px 20px 0;
+}
+
+th {
+    color: hsl(229, 23%, 23%);
+    font-size: 18px;
+    padding: 0 20px;
+}
+
+.age {
+    color:hsl(0, 0%, 59%);
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+.bg-bottom {
+    position: absolute;
+}
+
+.bg-top {
+    position: absolute;
+    right: 300px;
+    bottom: 300px;
+}
+
+.box {
+    background-color: white;
+    background-image: url(images/bg-pattern-card.svg);
+    background-position: top;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    height: 380px;
+    margin: 100px auto;
+    width: 350px;
+}
+
+.name {
+    color: hsl(229, 23%, 23%);
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+.profile {
+    margin: 20px auto;
+}
+
+.profile-img {
+    border-radius: 100%;
+    display: inline;
+    position: relative;
+    margin: 90px auto 0;
+    border: 5px solid white;
+}
