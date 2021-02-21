@@ -1,0 +1,153 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+h1, h2, h3 {
+    font-weight: 900;
+}
+
+h1 {
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+h2 {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+p {
+    color: #8f8f8f;
+}
+
+.navbar {
+    padding-bottom: 4.5rem;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+.nav-item {
+    padding-left: 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-weight: 300;
+}
+
+.container-fluid {
+    padding: 7% 15%;
+}
+
+.btn-dl {
+    margin: 5% 3% 0 0;
+}
+
+.title-img {
+    width: 300px;
+    transform: rotate(25deg);
+    position: absolute;
+    left: 57%;
+}
+
+.feature-title {
+    font-size: 1.5rem;
+    line-height: 2;
+}
+
+.row-features i {
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.row-features i:hover {
+    color: #ff4c68;
+}
+
+.row-features p {
+    padding: 0 8%;
+    line-height: 1.7;
+}
+
+.col-features {
+    margin: 4.5% 0;
+}
+
+.carousel-item {
+    color: #fff;
+}
+
+.testimonial-image {
+    width: 10%;
+    margin: 20px;
+    border-radius: 100%;
+}
+
+.press {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+.col-price-card {
+    padding: 3% 2%;
+}
+
+.cta-title {
+    color: #fff;
+    font-size: 3.5rem;
+    font-weight: 900;
+    line-height: 1.5;
+}
+
+.fa-footer {
+    padding: 0 10px 20px;
+}
+
+#title {
+    background-color: #ff4c68;
+    color: #fff;
+    text-align: left;
+}
+
+#title .container-fluid {
+    padding: 3% 15% 7%;
+}
+
+#features {
+    position: relative;
+    background-color: #fff;
+}
+
+#testimonials {
+    background-color: #ef8172;
+}
+
+#press {
+    background-color: #ef8172;
+    padding-bottom: 3%;  
+}
+
+#cta {
+    background-color: #ff4c68;
+}
+
+#footer {
+    margin: 7% auto 0;
+}
+
+@media (max-width: 1028px) {
+    .row .col-lg-6 {
+        text-align: center;
+    }
+
+    .title-img {
+        position: static;
+        transform: rotate(0);
+        margin-top: 5%;
+    }
+}
