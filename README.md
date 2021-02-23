@@ -11,3 +11,5 @@ webstie3: TinDog website using HTML & CSS & Bootstrap v5. followed Udemy instruc
 challenge1: profile card component using HTML & CSS - flexbox. challenge from Frontend mentor.
 
 challenge2: single price grid component using HTML & CSS - flexbox. challenge from Frontend mentor.
+
+challenge3: social proof section using HTML & CSS - flexbox. challenge from Frontend mentor.
