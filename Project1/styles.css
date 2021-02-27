@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 10px;
+}
+
+body {
+    background-color: rgb(57, 62, 70);
+    text-align: center;
+    color: rgb(78, 204, 163);
+    font-family: 'Indie Flower', cursive;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 8rem;
+    text-shadow: 5px 0 #232931;
+}
+
+p {
+    font-size: 2rem;
+}
+
+.dice {
+    display: inline-block;
+}
+
+footer p{
+    font-size: 1rem;
+    color: #EEEEEE;
+}
