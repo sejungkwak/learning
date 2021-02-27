@@ -13,3 +13,5 @@ challenge1: profile card component using HTML & CSS - flexbox. challenge from Fr
 challenge2: single price grid component using HTML & CSS - flexbox. challenge from Frontend mentor.
 
 challenge3: social proof section using HTML & CSS - flexbox. challenge from Frontend mentor.
+
+Project1: dice roller using HTML & CSS & JavaScript. followed Udemy instructor.
