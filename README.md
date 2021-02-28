@@ -15,3 +15,5 @@ challenge2: single price grid component using HTML & CSS - flexbox. challenge fr
 challenge3: social proof section using HTML & CSS - flexbox. challenge from Frontend mentor.
 
 Project1: dice roller using HTML & CSS & JavaScript. followed Udemy instructor.
+
+Project2: drum kit using HTML & CSS & JavaScript. followed Udemy instructor.
