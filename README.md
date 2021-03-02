@@ -17,3 +17,5 @@ challenge3: social proof section using HTML & CSS - flexbox. challenge from Fron
 Project1: dice roller using HTML & CSS & JavaScript. followed Udemy instructor.
 
 Project2: drum kit using HTML & CSS & JavaScript. followed Udemy instructor.
+
+Project3: simon game(memory game) using HTML & CSS & JavaScript & JQuery v3.5.1. followed Udemy instructor.
