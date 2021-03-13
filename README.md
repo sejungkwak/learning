@@ -21,6 +21,6 @@ This repository is for archival purposes.
 - Project3: simon game(memory game) using HTML & CSS & JavaScript & JQuery v3.5.1. follwed Udemy instructor Angela Yu.
 
 
-- Other project - not on this repository
+#### Other project - not on this repository
 - newsletter signup page using HTML & CSS & JavaScript + mailchimp API & heroku
 (https://powerful-retreat-05917.herokuapp.com)
