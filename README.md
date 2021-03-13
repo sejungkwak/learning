@@ -23,4 +23,4 @@ This repository is for archival purposes.
 
 #### Other project - not on this repository
 - newsletter signup page using HTML & CSS & JavaScript + mailchimp API & heroku
-(https://powerful-retreat-05917.herokuapp.com)
+[Link to the page](https://powerful-retreat-05917.herokuapp.com)
