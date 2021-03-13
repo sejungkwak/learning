@@ -19,3 +19,8 @@ Project1: dice roller using HTML & CSS & JavaScript. followed Udemy instructor A
 Project2: drum kit using HTML & CSS & JavaScript. followed Udemy instructor Angela Yu.
 
 Project3: simon game(memory game) using HTML & CSS & JavaScript & JQuery v3.5.1. follwed Udemy instructor Angela Yu.
+
+
+Other project - not on this repository
+Project: newsletter signup page using HTML & CSS & JavaScript + mailchimp API & heroku
+https://powerful-retreat-05917.herokuapp.com
