@@ -21,7 +21,7 @@ This repository is for archival purposes.
 - Project3: simon game(memory game) using HTML & CSS & JavaScript & JQuery v3.5.1. follwed Udemy instructor Angela Yu.
 
 Can be seen at https://sejungkwak.github.io/learning/ + title 
-i.e. https://sejungkwak.github.io/learning/website1
+i.e. https://sejungkwak.github.io/learning/project3
 
 
 #### Other project - not on this repository
